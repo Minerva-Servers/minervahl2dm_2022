@@ -1,0 +1,7 @@
+"minervahl2dm"
+{
+	"base"			"base"
+	"title"			"Minerva: Half-Life 2 Deathmatch"
+	"author" 		"Minerva Servers"
+	"menusystem"	"1"
+}
